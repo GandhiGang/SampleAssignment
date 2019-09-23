@@ -5,12 +5,10 @@ void setup()
 }
 void draw()
 {
-  fill(#FF9933);
+  fill(255, 153, 51);
   rectangle(0,0,900,200);
-  fill(#FFFFFF);
+  fill(255, 255, 255);
   rectangle(0,200,900,200);
-  fill(#138808);
+  fill(19, 136, 8);
   rectangle(0,400,900,200);
 }
-
-
